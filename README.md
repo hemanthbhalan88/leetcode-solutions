@@ -4,8 +4,8 @@ This repository contains my solutions to LeetCode problems in C++. The goal is t
 
 ## 📊 Statistics
 
-- Total Solved: 5
-- Easy: 4
+- Total Solved: 6
+- Easy: 5
 - Medium: 1
 - Hard: 0
 
@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems in C++. The goal is t
 | 66 | Plus One | Easy | Array | Carry propagation from right to left |
 | 136 | Single Number | Easy | Array, Bit Manipulation | XOR cancels duplicate elements |
 | 53 | Maximum Subarray | Medium | Array, Dynamic Programming | Kadane's Algorithm |
+| 217 | Contains Duplicate | Easy | Array, Sorting | Sort array and check adjacent elements |
 
 ## 🎯 Goals
 
@@ -33,5 +34,5 @@ This repository contains my solutions to LeetCode problems in C++. The goal is t
 ## 📈 Progress
 
 - Started: February 2026
-- Current Solved: 4
+- Current Solved: 6
 - Next Milestone: 20 Problems Solved
