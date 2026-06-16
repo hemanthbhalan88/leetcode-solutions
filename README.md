@@ -4,8 +4,8 @@ This repository contains my solutions to LeetCode problems in C++. The goal is t
 
 ## 📊 Statistics
 
-- Total Solved: 6
-- Easy: 5
+- Total Solved: 9
+- Easy: 8
 - Medium: 1
 - Hard: 0
 
@@ -23,6 +23,10 @@ This repository contains my solutions to LeetCode problems in C++. The goal is t
 | 136 | Single Number | Easy | Array, Bit Manipulation | XOR cancels duplicate elements |
 | 53 | Maximum Subarray | Medium | Array, Dynamic Programming | Kadane's Algorithm |
 | 217 | Contains Duplicate | Easy | Array, Sorting | Sort array and check adjacent elements |
+| 121 | Best Time to Buy and Sell Stock | Easy | Array | Track minimum price and maximum profit |
+| 242 | Valid Anagram | Easy | String, Hashing | Compare character frequencies using a count array |
+| 242 | Valid Anagram | Easy | String, Hashing | Compare character frequencies using a count array |
+| 169 | Majority Element | Easy | Array, Sorting | Majority element occupies middle position after sorting |
 
 ## 🎯 Goals
 
@@ -33,6 +37,6 @@ This repository contains my solutions to LeetCode problems in C++. The goal is t
 
 ## 📈 Progress
 
-- Started: February 2026
-- Current Solved: 6
+- Started: June 2026
+- Current Solved: 8
 - Next Milestone: 20 Problems Solved
